@@ -1,5 +1,6 @@
-# Datos de magnetometría de los sitios Morro de Tulcán y Molanga, en Popayán, Cauca, Colombia. [Github](https://github.com/vigonfer/popayan_magnetometria)
-Víctor González (2025)
+# Magnetometría de Morro de Tulcán y Molanga
+## Datos de magnetometría de los sitios Morro de Tulcán y Molanga, en Popayán, Cauca, Colombia. [Github](https://github.com/vigonfer/popayan_magnetometria)
+Víctor González Fernández (2025)
 
 Los archivos *morro00.dat* y *molanga00.dat* son archivos de texto, en un formato compatible con [Surfer](https://www.goldensoftware.com/products/surfer/), [Magmap](https://www.geometrics.com/software/magmap/), y [Snuffler](http://www.sussexarch.org.uk/geophys/snuffler.html), que contienen las lecturas de magnetometría, tomadas en el trabajo de campo de 2022 del proyecto “Caracterización de las pirámides prehispánicas de Popayán, Cauca”, con el magnetómetro G-857 de la empresa [Geometrics](https://www.geometrics.com/). 
 
