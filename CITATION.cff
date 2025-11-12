@@ -1,20 +1,20 @@
-abstract: "<p>Datos de magnetometr\xEDa de los sitios Morro de Tulc\xE1n y Molanga,\
-  \ en Popay\xE1n, Cauca, Colombia.</p>"
+abstract: "<p>Datos de magnetometría de los sitios Morro de Tulcán y Molanga,\
+  \ en Popayán, Cauca, Colombia.</p>"
 authors:
-- affiliation: Colombian Institute of Anthropology and History
-  family-names: "Gonz\xE1lez Fern\xE1ndez"
-  given-names: "V\xEDctor"
+- affiliation: Instituto Colombiano de Antropología e Historia
+  family-names: "González Fernández"
+  given-names: "Víctor"
   orcid: 0000-0002-8308-200X
 cff-version: 1.2.0
 date-released: '2025-10-28'
 doi: 10.5281/zenodo.17469173
 identifiers:
-- type: swh
-  value: swh:1:dir:7192b43dee0dd589f725f4c80c7e793c8edd57f1;origin=https://doi.org/10.5281/zenodo.17469172;visit=swh:1:snp:52b43595f7b02bc2b5db40c1ba2ba647a0c3350d;anchor=swh:1:rel:c37e5742ab87b8fa05d562aae5848d7c5ff16a00;path=vigonfer-popayan_magnetometria-55a20a0
+- type: dataset
 license:
 - gpl-3.0-only
-message: If you use this software, please cite it using the metadata from this file.
+message: If you use this data, please cite it using the metadata from this file.
 repository-code: https://github.com/vigonfer/popayan_magnetometria/tree/v1
-title: "Magnetometr\xEDa de Morro de Tulc\xE1n y Molanga"
-type: software
+title: "Magnetometría de Morro de Tulcán y Molanga"
+type: dataset
 version: v1
+
